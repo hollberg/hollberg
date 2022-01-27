@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on completing a six-month data science bootcamp at Bloomtech (fka Lambda School) while providing contract support to one of the largest charities in the state of Georgia.
+
 <!--
 **hollberg/hollberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
