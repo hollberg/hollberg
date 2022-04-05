@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mitch Hollberg.</h1>
 <h3 align="center">I'm a SQL-slinging, Python-scripting MBA that builds teams, processes, and analytics that enable businesses to transform data to insight to action. Professional experience in M&A, strategic planning, analytics, financial management, and IT systems integration. Ability to produce 'full stack' strategic and operational assessments, from problem identification, data architecture, system integration and data aggregation, to dashboard creation and executive-level presentations.</h3>
 
-- 📫 How to reach me **mhollberg@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+
+- 📫 **mhollberg@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/mitchellhollberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitchellhollberg" height="30" width="40" /></a>
 </p>
