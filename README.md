@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitch Hollberg.</h1>
 <h3 align="center">I'm a SQL-slinging, Python-scripting MBA that builds teams, processes, and analytics that enable businesses to transform data to insight to action. Professional experience in M&A, strategic planning, analytics, financial management, and IT systems integration. Ability to produce 'full stack' strategic and operational assessments, from problem identification, data architecture, system integration and data aggregation, to dashboard creation and executive-level presentations.</h3>
 
-- 📫 Email me: **mhollberg@gmail.com**
+📫 Email: **mhollberg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
